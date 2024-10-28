@@ -23,7 +23,7 @@ pyramid bar(x, y)
 ```
 
 - The function `bar(x, y)` squares two numbers and then adds them.
-- The `main()` pyramid calls `bar(2, 3)`.
+- The `main` pyramid calls `bar(1 + 1, 1 + 2)`.
 
 ## Commands
 
